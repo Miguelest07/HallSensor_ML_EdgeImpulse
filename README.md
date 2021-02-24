@@ -1,7 +1,7 @@
 # HallSensor_ML_EdgeImpulse
 The project is a section of the training course "Introduction to Embedded Machine Learning", by hawn Hymel, the main instructor in collaboration with Edge Impulse
 
-$Intro
+# Intro
 
 ![WhatsApp Image 2021-02-22 at 1 09 07 PM](https://user-images.githubusercontent.com/46487846/108938342-886a7100-7615-11eb-8d7e-b430da49ac7f.jpeg)
 
