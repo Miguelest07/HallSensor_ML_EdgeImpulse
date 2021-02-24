@@ -16,3 +16,7 @@ I chose a simple 12v fan for measuring the rotational velocity in 4 states (OFF,
 
 ![f](https://user-images.githubusercontent.com/46487846/108938070-02e6c100-7615-11eb-8e84-ccbc4ae03d84.PNG)
 
+![WhatsApp Image 2021-02-22 at 1 04 10 PM](https://user-images.githubusercontent.com/46487846/108938339-87d1da80-7615-11eb-9257-de48ba983105.jpeg)
+
+![WhatsApp Image 2021-02-22 at 1 09 07 PM](https://user-images.githubusercontent.com/46487846/108938342-886a7100-7615-11eb-8d7e-b430da49ac7f.jpeg)
+
