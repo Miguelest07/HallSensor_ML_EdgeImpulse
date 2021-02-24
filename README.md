@@ -7,7 +7,7 @@ I chose a simple 12v fan for measuring the rotational velocity in 4 states (OFF,
 
 ![WhatsApp Image 2021-02-22 at 1 09 07 PM](https://user-images.githubusercontent.com/46487846/108938342-886a7100-7615-11eb-8d7e-b430da49ac7f.jpeg)
 
-Here I used an ESP32 as a functional microcontroller for obtaining the hall sensor values and collecting the data, using some filtering techniques and data synthesis inside of the code in the microcontroller I obtained different waveforms in those 4 states.
+Here I used an ESP32 as a functional microcontroller for obtaining the hall sensor values and collecting the data, using some filtering techniques and data synthesis inside of the code in the microcontroller I obtained different waveforms in those 4 states.(see main.c)
 
 ![OFF](https://user-images.githubusercontent.com/46487846/108938068-024e2a80-7615-11eb-9e41-62b029ecdaf8.PNG)
 
