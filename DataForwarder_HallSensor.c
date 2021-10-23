@@ -1,6 +1,7 @@
 //ESP32-Arduino IDE// Code written by Jose Miguel Estrada
 #define FREQUENCY_HZ 50
 #define INTERVAL_MS (1000 / (FREQUENCY_HZ + 1))
+#define OFFSET      1900
 
 static const int potPin = 36;
 static int x[1024] = {0};
@@ -43,7 +44,7 @@ void filter(void)
 {
   if(onn == 0)
     {
-        x[ii] = analogRead(potPin) - 1900;//Obtain data and apply offset
+        x[ii] = analogRead(potPin) - OFFSET;//Obtain data and apply offset
         if(x[ii] <150)//noise in data offset filter
         x[ii] = 0;//noise = 0
         ii++;
